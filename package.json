@@ -1,0 +1,19 @@
+{
+  "name": "aryan",
+  "version": "1.0.0",
+  "description": "backend test",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "aryan"
+  ],
+  "author": "aryan gupta",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "env": "^0.0.2",
+    "express": "^4.21.1"
+  }
+}
